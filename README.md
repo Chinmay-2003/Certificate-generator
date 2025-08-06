@@ -35,7 +35,7 @@ The motivation behind this project was to create a user-friendly interface that 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/chinu6147/Ceritificate-generator.git
+   git clone https://github.com/Chinmay-2003/Ceritificate-generator.git
    cd certificate-generator
 
 
